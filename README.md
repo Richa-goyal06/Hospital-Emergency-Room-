@@ -17,7 +17,7 @@ We need to create a Hospital emergency room analysis in excel to improve efficie
 - Analyzed trends across loan approvals, repayments, defaults, and risk segments.
 
 ## Dashboard
-
+- <a href="https://github.com/Richa-goyal06/Hospital-Emergency-Room-/blob/main/Dashboard.png">Dashboard</a>
 
 ## Project insights
 Loan Applications & Disbursement
