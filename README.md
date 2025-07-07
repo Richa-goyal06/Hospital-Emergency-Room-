@@ -39,4 +39,7 @@ Interest Rate Trends
 - Average interest rates remained stable across segments.
 - Slightly lower rates were offered to high-value, low-risk borrowers, reflecting risk-based pricing strategies.
 
+## Final conclusions
+Developed an interactive Excel dashboard to analyze loan performance, uncover borrower risk patterns, and support data-driven lending decisions
+
 
