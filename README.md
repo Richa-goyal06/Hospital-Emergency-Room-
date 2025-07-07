@@ -10,10 +10,14 @@ We need to create a Hospital emergency room analysis in excel to improve efficie
 - Patient satisfaction score
 
 ## Process
-- Data Collection
-- Data Cleaning & Preprocessing (Power Query)
-- Data Analysis
-- Dashboard Creation
+- Queried and extracted raw loan data using SQL from a MySQL database.
+- Cleaned, transformed, and modeled data using Power Pivot in Excel.
+- Created calculated fields such as DTI and interest-based KPIs.
+- Built an interactive Excel dashboard using pivot tables, charts, and slicers.
+- Analyzed trends across loan approvals, repayments, defaults, and risk segments.
+
+## Dashboard
+
 
 ## Project insights
 Loan Applications & Disbursement
